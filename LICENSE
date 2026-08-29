@@ -1,21 +1,9 @@
-MIT License
+MIT Lisansı
 
-Copyright (c) 2024 Jakub Juszko
+Telif Hakkı (c) 2026 Yusuf Yam
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+İşbu belge ile, bu yazılımın ve ilgili belgelendirme dosyalarının ("Yazılım") bir kopyasını edinen herkese; Yazılım'ı kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya satma hakları dahil olmak üzere sınırlama olmaksızın işleme ve Yazılım'ın sağlandığı kişilere bunu yapmaları için izin verme hakkı ücretsiz olarak tanınır; ancak aşağıdaki koşullar geçerlidir:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılım'ın tüm kopyalarına veya önemli bölümlerine dahil edilmelidir.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+YAZILIM "OLDUĞU GİBİ" ESASINA GÖRE; TİCARİ ELVERİŞLİLİK, ÖZEL BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAYAK ŞEKİLDE, AÇIK VEYA ZIMNİ HERHANGİ BİR GARANTİ VERİLMEKSİZİN SAĞLANMAKTADIR. YAZARLAR VEYA TELİF HAKKI SAHİPLERİ; SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA BİR NEDENE DAYANSIN, YAZILIM'DAN, YAZILIM'IN KULLANIMINDAN VEYA YAZILIM'LA İLGİLİ DİĞER İŞLEMLERDEN DOĞAN VEYA BUNLARLA BAĞLANTILI HERHANGİ BİR HAK TALEBİ, HASSAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN HİÇBİR KOŞULDA SORUMLU TUTULAMAZ.
